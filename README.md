@@ -1,5 +1,7 @@
 # Interview Scheduler API
 
+This api can be made into a Docker Image!
+
 ## Setup
 
 Install dependencies with `npm install`.
